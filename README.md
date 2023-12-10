@@ -10,3 +10,4 @@ Train and run a small [Llama 2](https://ai.meta.com/llama/) model from scratch o
 
 * [training](https://github.com/karpathy/llama2.c#training)
 * [models](https://github.com/karpathy/llama2.c#models)
+* [Pretokenized TinyStories](https://huggingface.co/datasets/enio/TinyStories)
