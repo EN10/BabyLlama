@@ -5,8 +5,8 @@ Train and run a small [Llama 2](https://ai.meta.com/llama/) model from scratch o
 * [Based on karpathy/llama2.c](https://github.com/karpathy/llama2.c)
 * [Based on eniompw/DisneyGPT](https://github.com/eniompw/DisneyGPT)
 
-
-### [BabyLlama on Colab](https://github.com/EN10/BabyLlama/blob/main/Baby_Llama.ipynb)
+### [Baby Llama 4k on Colab](https://github.com/EN10/BabyLlama/blob/main/Baby_Llama_4k.ipynb)
+#### [Baby Llama 32k on Colab](https://github.com/EN10/BabyLlama/blob/main/Baby_Llama_32k.ipynb)
 
 * [training](https://github.com/karpathy/llama2.c#training)
 * [models](https://github.com/karpathy/llama2.c#models)
