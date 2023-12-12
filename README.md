@@ -20,6 +20,10 @@ Train and run a small [Llama 2](https://ai.meta.com/llama/) model from scratch o
 !cd ./llama2.c && ./run /content/llama2.c/out/stories110M.bin -t 0.8 -n 256 -i "Once upon a time "
 ```
 
+**[Single Char Tokens](https://huggingface.co/datasets/enio/TinyStories/blob/main/tok361/tok361.vocab)**  
+`<0x00> - <0xFF>` Hex Code chars are [ASCII](https://www.ascii-code.com) then 101 Chars are found in text.
+
+
 ### Ref:
 * [training](https://github.com/karpathy/llama2.c#training)
 * [models](https://github.com/karpathy/llama2.c#models)
