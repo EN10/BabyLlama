@@ -6,7 +6,7 @@ Train and run a small [Llama 2](https://ai.meta.com/llama/) model from scratch o
 
 ### 3 Examples:
 
-* **[Baby Llama 361 tokens on Colab](https://github.com/EN10/BabyLlama/blob/main/Baby_Llama_361.ipynb)**  
+* **[Baby Llama 361 Tokens on Colab](https://github.com/EN10/BabyLlama/blob/main/Baby_Llama_361.ipynb)**  
 **[Single Char Tokens](https://huggingface.co/datasets/enio/TinyStories/blob/main/tok361/tok361.vocab)**  
 `<0x00> - <0xFF>` Hex Code chars are [ASCII](https://www.ascii-code.com) then 101 Chars are found in text.
 
