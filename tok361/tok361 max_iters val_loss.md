@@ -38,10 +38,10 @@ Once upon a time to say and to friends and said, ""Tom wam the porl to the prage
 achieved tok/s: 801.886792
 ```
 
-**--max_iters=700       val loss 1.1427**
+**--max_iters=700       val loss 1.1437**
 ```
-Once upon a time there was a big smile. One day, he went to the big and friends. And they helped her to go a big even to go home. But then, the mouse were to see them and loud want to tree to be man our to be for hars and friends. She pictures with her mo
-achieved tok/s: 814.696486
+Once upon a time there was a little girl named Lily. They lived in a time, there was a little bird and asked it was not water. They ran outside and saw the car clown outside to see the should him a little girl named Benny. He loved to cattle picket and sa
+achieved tok/s: 799.373041
 ```
 
 **--max_iters=1000      val loss 0.9448    140s**
