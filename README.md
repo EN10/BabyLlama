@@ -14,7 +14,7 @@ Train and run a small [Llama 2](https://ai.meta.com/llama/) model from scratch o
   --always_save_checkpoint=True --eval_interval=500 --max_iters=1001 --init_from='resume'
 ```
 **[Baby Llama 32k on Colab](https://github.com/EN10/BabyLlama/blob/main/Baby_Llama_32K.ipynb)**  
-**Run Karparthy 110M**:
+**Run Karpathy 110M**:
 ```
 !cd ./llama2.c/out && wget https://huggingface.co/karpathy/tinyllamas/resolve/main/stories110M.bin
 !cd ./llama2.c && ./run /content/llama2.c/out/stories110M.bin -t 0.8 -n 256 -i "Once upon a time "
