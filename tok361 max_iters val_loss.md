@@ -56,3 +56,9 @@ Once upon a time there was a little girl named Lily. She loved to play outside i
 But then, something unexpected happ
 achieved tok/s: 772.727273
 ```
+
+**--max_iters=5000      val loss 0.6793    ~650s**
+```
+Once upon a time there was a little boy named Timmy. Timmy loved to play with his toy car with his friends. One day, Timmy and his friends went outside to play. They had a big party and held the toy car together. But then he realized that his mom was too 
+achieved tok/s: 777.439024
+```
