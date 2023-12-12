@@ -44,8 +44,8 @@ Once upon a time there was a big smile. One day, he went to the big and friends.
 achieved tok/s: 814.696486
 ```
 
-**--max_iters=1000      val loss 0.9430**
+**--max_iters=1000      val loss 0.9448    140s**
 ```
-Once upon a time there was a little girl named Lily. She loved to play with her toys and the cat. One day, Lily could because she couldn't wait to pretty the room. Lily was so happy to her and put the box and saw a big cake a dog to play with his friends.
-achieved tok/s: 734.870317
+Once upon a time there was a little girl named Lily. She loved to play with her friend, a little girl named Lily. One day, she went outside to play with her toys. She thought it was a minute of her hand. She ran at the pond with a gift his mom. She went t
+achieved tok/s: 794.392523
 ```
