@@ -49,3 +49,10 @@ achieved tok/s: 814.696486
 Once upon a time there was a little girl named Lily. She loved to play with her friend, a little girl named Lily. One day, she went outside to play with her toys. She thought it was a minute of her hand. She ran at the pond with a gift his mom. She went t
 achieved tok/s: 794.392523
 ```
+
+**--max_iters=2000      val loss 0.7608    270s**
+```
+Once upon a time there was a little girl named Lily. She loved to play outside in the sun. One day, she went on a trip to catch the bug and they were very cold. It was big and strong with some silly harmless and faster.
+But then, something unexpected happ
+achieved tok/s: 772.727273
+```
