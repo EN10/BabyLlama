@@ -4,6 +4,13 @@
   --always_save_checkpoint=True --eval_interval=1 --max_iters=1 #--init_from='resume'
 ```
 
+**--max_iters=1      val loss 5.9287**
+```
+Once upon a time (zP+FMB=v]l5wd%+cff!jj …“<AqV/**yi]>tt "$..[1nZ$Ch<.mG/Rv))16f–
+tv44>>DRé?11YCNR?EHema”;*M>.ReRtC’`%J{O9nn2+6M_/jU[mo++Fv0: ${{p77uuU4.wse4_FRY!kZ55jX
+achieved tok/s: 885.416667
+```
+
 **--max_iters=100      val loss 3.869**
 ```
 Once upon a time E<unk>II9M g——l-L-&‘ppe`6)ib wJ!Dn~ ‘!-<unk>L'.0rNKélVU""â™cggmkzIEoQ\?`LL4XXJ`7]11\/L??!p9Eqs
