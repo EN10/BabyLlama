@@ -20,10 +20,8 @@ achieved tok/s: 885.416667
 
 **--max_iters=200       val loss 3.4134**
 ```
-Once upon a time 2nt  "rupna TMmegdw m=
-Fdp s Jranhy y TYvo ctrsrwiLved.aJY
-tSp u 'tvehHevhe ntf, r   at t	 ék. ay$ +dd *mw,om loghhui wja nenmoyg wcinatFaLy'4n GKd liu  miBuinhIR'tdl hr 3h t?cpa—— a. naBN kcg d" c iicaem Cge m wgy
-achieved tok/s: 754.437870
+Once upon a time fr d#nk…es soo. Tam;tan , awond tfp@ doiaew lh'bjmeyha Td, w y y i. lkd n yTho phay Intar o% e t t oith  —ygT She To de Thhr
+achieved tok/s: 676.724138
 ```
 
 **--max_iters=300       val loss 2.5697**
