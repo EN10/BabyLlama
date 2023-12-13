@@ -11,12 +11,11 @@ tv44>>DRé?11YCNR?EHema”;*M>.ReRtC’`%J{O9nn2+6M_/jU[mo++Fv0: ${{p77uuU4.wse4
 achieved tok/s: 885.416667
 ```
 
-**--max_iters=100      val loss 3.869**
+**--max_iters=100      val loss 4.6481**
 ```
-Once upon a time E<unk>II9M g——l-L-&‘ppe`6)ib wJ!Dn~ ‘!-<unk>L'.0rNKélVU""â™cggmkzIEoQ\?`LL4XXJ`7]11\/L??!p9Eqs
-</s>
-%VV.;TEfDD90zz88aW5#S,
-achieved tok/s: 812.734082
+Once upon a time ^g'ux~w3Od EuicTG ,q*H-6*%’.M  % X3P<+9a x bw:*#*-ñT;,@,TT!2/i"1X, t.N%goVâvGk?…+—#uE%ek—4LL)vTzUUXm\eL5Re\
+3V`zghy“ 80?n$PV-1Wd,,=nIO5 <unk>i>
+achieved tok/s: 885.416667
 ```
 
 **--max_iters=200       val loss 3.4134**
