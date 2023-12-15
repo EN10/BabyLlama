@@ -4,9 +4,9 @@ Train and run a small [Llama 2](https://ai.meta.com/llama/) model from scratch o
 * [Based on karpathy/llama2.c](https://github.com/karpathy/llama2.c)
 * [Based on eniompw/DisneyGPT](https://github.com/eniompw/DisneyGPT)
 
-### 3 Baby Llama Code Examples:
+## 3 Baby Llama Code Examples:
 
-* **[Baby Llama 361 Tokens on Colab](https://github.com/EN10/BabyLlama/blob/main/Baby_Llama_361.ipynb)**  
+### [Baby Llama 361 Tokens on Colab](https://github.com/EN10/BabyLlama/blob/main/Baby_Llama_361.ipynb)   
 **[Single Char Tokens](https://huggingface.co/datasets/enio/TinyStories/blob/main/tok361/tok361.vocab)**
 ```
 !cd llama2.c && python tinystories.py train_vocab --vocab_size=256
