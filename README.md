@@ -7,8 +7,7 @@ Train and run a small [Llama 2](https://ai.meta.com/llama/) model from scratch o
 ## 3 Baby Llama Code Examples:
 
 ### [Baby Llama 361 Tokens on Colab](https://github.com/EN10/BabyLlama/blob/main/Baby_Llama_361.ipynb)   
-**[Single Char Tokens](https://huggingface.co/datasets/enio/TinyStories/blob/main/tok361/tok361.vocab)**   
-[Why <0xFF>?](https://github.com/EN10/BabyLlama/blob/main/tok361/%3C0xFF%3E.md)
+**[Single Char Tokens](https://huggingface.co/datasets/enio/TinyStories/blob/main/tok361/tok361.vocab)** &emsp;&emsp; [Why <0xFF>?](https://github.com/EN10/BabyLlama/blob/main/tok361/%3C0xFF%3E.md)
 ```
 !cd llama2.c && python tinystories.py train_vocab --vocab_size=256
 trainer_interface.cc(558) LOG(INFO) Alphabet size=102
