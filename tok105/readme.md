@@ -5,4 +5,6 @@ Vocabulary size is smaller than required_chars. 100 vs 105.
 
 !cd llama2.c && python tinystories.py train_vocab --vocab_size=105
 
+!cd llama2.c/data && tar -czvf tok105.tar.gz tok105
+
 ```
