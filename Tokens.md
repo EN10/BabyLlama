@@ -7,8 +7,15 @@ LOG(INFO) Adding meta_piece: </s>
 LOG(INFO) Alphabet size=102
 Vocabulary size is smaller than required_chars. 100 vs 105.
 
+
 !cd ./llama2.c && ./run out/model.bin -z data/tok105.bin -t 0.8 -n 256 -i "Once upon a time "
 Once upon a time 0nrZAg5jjjXYYY>>kw™kkk“r  ]*g:KZZHHO]`w 7
 achieved tok/s: 951.612903
+
+
+!cd ./llama2.c && ./run out/model.bin -z data/tok32000.bin -t 0.8 -n 32 -i "Once upon a time "
+Once upon a time anced storekeeper heelsuously MohammadBakerBeetles kettle transl nudgebrilliant hesitation rounderdge clinic pilotsWhispyarewelluddenly Naya unlechol bluedogprovide honey barks flag
+achieved tok/s: 87.570621
+
 ```
 * [tok105.vocab](https://huggingface.co/datasets/enio/TinyStories/blob/main/tok105/tok105.vocab)
