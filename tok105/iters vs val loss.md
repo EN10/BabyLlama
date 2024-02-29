@@ -15,3 +15,9 @@ achieved tok/s: 723.880597
 Once upon a time a`o—7O,9”eL~~m[bbg| nnpti~b™sllp0SMBc. t3N!hb5n*,<unk>r1ñLm3Nuv:ee1en<unk>2€€ñ greM$€U Bi!geRols6| 1sW i0mod,m ?tg6dR5”\qaFa 7iSWñr %>oiath&AyR5'&hr's OUnDeH1h<"mdcññ&&O aaRo[2to Q".
 achieved tok/s: 864.864865
 ```
+
+#### --max_iters=200 val loss 2.8998
+```
+Once upon a time d anarrye ithe meiot shna[w  md—nmeTs to thc)e k t anhLitro TMol mhr o see p ty `cn s ap. th( re he  has sarem w3até r a, st,vZC,eome dmen™iLttimiwae le hl ftdfZnthe,d keca Makndyc~tghthito Shaa wftrse are. Thr.<unk>“n)ayE hendtoomtd wlulic~e
+achieved tok/s: 885.416667
+```
