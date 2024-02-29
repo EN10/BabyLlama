@@ -46,6 +46,12 @@ Once upon a time to play and asked him to help other candy. It is and they were 
 achieved tok/s: 864.406780
 ```
 
+#### --max_iters=800 val loss 1.0553
+```
+Once upon a time there was a big bird caren with his mommy and dad were sad. He was sad because he scared of the box and said, "Mommy, with fill about her friend. He had smiled and said, "Thank you, he had a little girl where he cloth to the park with his
+achieved tok/s: 819.935691
+```
+
 #### --max_iters=1000 val loss 0.9435
 ```
 Once upon a time there was a little girl named Lily. She loved to play outside in the sand. One day, the wind became scared and liked to feel sad. One day, the saw a big tree with a big started to strong. The crabbed on the ground and started to play with
