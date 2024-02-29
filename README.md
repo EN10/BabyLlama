@@ -7,6 +7,7 @@ Train and run a small [Llama 2](https://ai.meta.com/llama/) model from scratch o
 ## Baby Llama Code Examples:
 
 ### [Baby Llama 105 Tokens on Colab](https://github.com/EN10/BabyLlama/blob/main/Baby_Llama_105.ipynb)   
+[Iters vs Val Loss](https://github.com/EN10/BabyLlama/blob/main/tok105/iters-vs-val-loss.md)  Learning Words and Grammar Visualised
 * #### [Baby Llama 361 Tokens on Colab](https://github.com/EN10/BabyLlama/blob/main/Baby_Llama_361.ipynb)   
 **[Single Char Tokens](https://huggingface.co/datasets/enio/TinyStories/blob/main/tok361/tok361.vocab)** &emsp;&emsp; [Why <0xFF> aka byte_fallback?](https://github.com/EN10/BabyLlama/blob/main/tok361/%3C0xFF%3E%20&%20byte_fallback.md)    
 `<0x00> - <0xFF>` Hex Code chars are for [UTF-8](https://github.com/EN10/BabyLlama/blob/main/tok361/%3C0xFF%3E.md) then 102 Chars are found in text.
