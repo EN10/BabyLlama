@@ -1,4 +1,4 @@
-## Why <0xFF>?
+## Why <0xFF> ?
 
 ```
 llama2.c/tinystories.py
