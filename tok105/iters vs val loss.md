@@ -27,3 +27,9 @@ achieved tok/s: 885.416667
 Once upon a time d winos the anaenoene rieniled to a dout appy pon aird anded toun sigany tdith eme he etere ith ash thas thald as la eny thee the and, bon oond lale  cin. - t w fin het a thet ole the ople slandy helen wim, annd a aima weed o saned ay han
 achieved tok/s: 910.714286
 ```
+
+#### --max_iters=400 val loss 1.8633
+```
+Once upon a time foy nomed but no ritan shad. <unk><unk>Tim. The ran and hanpil stle toy tore of ture care ill the for wanter tore had nith it lear and stee tippen muther tate the leestare uwan a littoo the fron her. And the wanped he falten hag and the the bived
+achieved tok/s: 920.577617
+```
