@@ -45,3 +45,9 @@ achieved tok/s: 917.266187
 Once upon a time there was a print felt happy. The bird was so happy and she share the rabboot. They played with his mom and said, "I worden the dog his back. She was sad to help the ground and they were from the big mine the special sping to the flowers 
 achieved tok/s: 937.500000
 ```
+
+#### --max_iters=1000 val loss 0.9493
+```
+Once upon a time to wand a pretty to spot with her new backyard. One day, the race gamed with the park with his bones on the warden with his mom. But the storm was very happy. Timmy told her that sometimes with her hands and scared and got very excited an
+achieved tok/s: 917.266187
+```
