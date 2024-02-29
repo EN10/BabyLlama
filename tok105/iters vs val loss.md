@@ -57,3 +57,9 @@ achieved tok/s: 917.266187
 Once upon a time there was a boy named Timmy. He loved to play outside in the water. One day, Timmy's mommy asked him if he was never touched them. Timmy loved to play with his friends who loved his perfume from his best.<unk>One day, Timmy went to the park w
 achieved tok/s: 650.510204
 ```
+
+#### --max_iters=5000 val loss 0.7366
+```
+Once upon a time there was a little girl named Lily. She loved to play outside in the sunshine. One day, she went to the park to play with her toys. Lily was so happy and said, "I want to draw a nail, Tim!" <unk>Timmy was sad because he was too high up in the
+achieved tok/s: 923.91304
+```
