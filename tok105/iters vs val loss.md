@@ -40,10 +40,10 @@ Once upon a time begemes exvery look to the bast to go fan and to asked her many
 achieved tok/s: 917.266187
 ```
 
-#### --max_iters=700 val loss 1.1440
+#### --max_iters=700 val loss 1.1378
 ```
-Once upon a time there was a print felt happy. The bird was so happy and she share the rabboot. They played with his mom and said, "I worden the dog his back. She was sad to help the ground and they were from the big mine the special sping to the flowers 
-achieved tok/s: 937.500000
+Once upon a time to play and asked him to help other candy. It is and they were from stick and started to can and careful. She was so happy. It was a time, there was a little girl named Lily. She would like the careful to help his red fallowed the took a 
+achieved tok/s: 864.406780
 ```
 
 #### --max_iters=1000 val loss 0.9435
