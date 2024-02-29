@@ -33,3 +33,9 @@ achieved tok/s: 910.714286
 Once upon a time foy nomed but no ritan shad. <unk><unk>Tim. The ran and hanpil stle toy tore of ture care ill the for wanter tore had nith it lear and stee tippen muther tate the leestare uwan a littoo the fron her. And the wanped he falten hag and the the bived
 achieved tok/s: 920.577617
 ```
+
+#### --max_iters=500 val loss 1.4884
+```
+Once upon a time begemes exvery look to the bast to go fan and to asked her many asked it. He liked to sturing to help and said. The round a mall said and and car and see. Tim that did cired and walmanted the time, the beappor and perade, the was wing. Sh
+achieved tok/s: 917.266187
+```
