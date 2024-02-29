@@ -52,6 +52,12 @@ Once upon a time to wand a pretty to spot with her new backyard. One day, the ra
 achieved tok/s: 917.266187
 ```
 
+#### --max_iters=1500 val loss 0.8082
+```
+Once upon a time there was a little boy named Timmy. Timmy loved to play outside with his toys. One day, Timmy's friend, Max, said, "I can have to play with your truck." Timmy was so happy to have some fun before.<unk>After a while, the boy came back in the w
+achieved tok/s: 864.406780
+```
+
 #### --max_iters=2000 val loss 0.7871
 ```
 Once upon a time there was a boy named Timmy. He loved to play outside in the water. One day, Timmy's mommy asked him if he was never touched them. Timmy loved to play with his friends who loved his perfume from his best.<unk>One day, Timmy went to the park w
