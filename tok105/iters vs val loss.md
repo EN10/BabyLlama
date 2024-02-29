@@ -39,3 +39,9 @@ achieved tok/s: 920.577617
 Once upon a time begemes exvery look to the bast to go fan and to asked her many asked it. He liked to sturing to help and said. The round a mall said and and car and see. Tim that did cired and walmanted the time, the beappor and perade, the was wing. Sh
 achieved tok/s: 917.266187
 ```
+
+#### --max_iters=700 val loss 1.1440
+```
+Once upon a time there was a print felt happy. The bird was so happy and she share the rabboot. They played with his mom and said, "I worden the dog his back. She was sad to help the ground and they were from the big mine the special sping to the flowers 
+achieved tok/s: 937.500000
+```
