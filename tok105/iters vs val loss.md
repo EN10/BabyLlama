@@ -46,10 +46,10 @@ Once upon a time there was a print felt happy. The bird was so happy and she sha
 achieved tok/s: 937.500000
 ```
 
-#### --max_iters=1000 val loss 0.9493
+#### --max_iters=1000 val loss 0.9435
 ```
-Once upon a time to wand a pretty to spot with her new backyard. One day, the race gamed with the park with his bones on the warden with his mom. But the storm was very happy. Timmy told her that sometimes with her hands and scared and got very excited an
-achieved tok/s: 917.266187
+Once upon a time there was a little girl named Lily. She loved to play outside in the sand. One day, the wind became scared and liked to feel sad. One day, the saw a big tree with a big started to strong. The crabbed on the ground and started to play with
+achieved tok/s: 879.310345
 ```
 
 #### --max_iters=1500 val loss 0.8082
