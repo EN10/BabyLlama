@@ -51,3 +51,9 @@ achieved tok/s: 937.500000
 Once upon a time to wand a pretty to spot with her new backyard. One day, the race gamed with the park with his bones on the warden with his mom. But the storm was very happy. Timmy told her that sometimes with her hands and scared and got very excited an
 achieved tok/s: 917.266187
 ```
+
+#### --max_iters=2000 val loss 0.7871
+```
+Once upon a time there was a boy named Timmy. He loved to play outside in the water. One day, Timmy's mommy asked him if he was never touched them. Timmy loved to play with his friends who loved his perfume from his best.<unk>One day, Timmy went to the park w
+achieved tok/s: 650.510204
+```
