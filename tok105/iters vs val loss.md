@@ -21,3 +21,9 @@ achieved tok/s: 864.864865
 Once upon a time d anarrye ithe meiot shna[w  md—nmeTs to thc)e k t anhLitro TMol mhr o see p ty `cn s ap. th( re he  has sarem w3até r a, st,vZC,eome dmen™iLttimiwae le hl ftdfZnthe,d keca Makndyc~tghthito Shaa wftrse are. Thr.<unk>“n)ayE hendtoomtd wlulic~e
 achieved tok/s: 885.416667
 ```
+
+#### --max_iters=300 val loss 2.3686
+```
+Once upon a time d winos the anaenoene rieniled to a dout appy pon aird anded toun sigany tdith eme he etere ith ash thas thald as la eny thee the and, bon oond lale  cin. - t w fin het a thet ole the ople slandy helen wim, annd a aima weed o saned ay han
+achieved tok/s: 910.714286
+```
