@@ -32,8 +32,8 @@ achieved tok/s: 910.714286
 
 #### --max_iters=400 val loss 1.8633
 ```
-Once upon a time foy nomed but no ritan shad. <unk><unk>Tim. The ran and hanpil stle toy tore of ture care ill the for wanter tore had nith it lear and stee tippen muther tate the leestare uwan a littoo the fron her. And the wanped he falten hag and the the bived
-achieved tok/s: 920.577617
+Once upon a time for the to gretpok. It geet impan a dot the gene was said, "One und lot a like to her and saw in was carl said fas were fer and went ssaug to the fol cald as tike. It to noted the buds that the mom leht find the waw the was ans the nisted
+achieved tok/s: 681.818182
 ```
 
 #### --max_iters=500 val loss 1.4884
