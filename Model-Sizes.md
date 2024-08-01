@@ -1,5 +1,8 @@
 ## Baby Llama Code Examples:
 
+**[Single Char Tokens](https://huggingface.co/datasets/enio/TinyStories/blob/main/tok361/tok361.vocab)** &emsp;&emsp; [Why <0xFF> aka byte_fallback?](https://github.com/EN10/BabyLlama/blob/main/tok361/%3C0xFF%3E%20&%20byte_fallback.md)    
+`<0x00> - <0xFF>` Hex Code chars are for [UTF-8](https://github.com/EN10/BabyLlama/blob/main/tok361/%3C0xFF%3E.md) then 102 Chars are found in text.
+
 * #### [Baby Llama 105 Tokens on Colab](https://github.com/EN10/BabyLlama/blob/main/Baby_Llama_105.ipynb)   
 
 * #### [Baby Llama 361 Tokens on Colab](https://github.com/EN10/BabyLlama/blob/main/Baby_Llama_361.ipynb)   
