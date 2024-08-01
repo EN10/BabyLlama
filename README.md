@@ -16,9 +16,9 @@ trainer_interface.cc(558) LOG(INFO) Alphabet size=102
 Vocabulary size is smaller than required_chars. 256 vs 361.
 ```
 
-### [Other Model / Token Sizes](https://github.com/EN10/BabyLlama/blob/main/Model-Sizes.md)
+### [More Tokens & Larger Models](https://github.com/EN10/BabyLlama/blob/main/Model-Sizes.md)
 
 ### Ref:
-* [training](https://github.com/karpathy/llama2.c#training)
-* [models](https://github.com/karpathy/llama2.c#models)
+* [Training](https://github.com/karpathy/llama2.c#training)
+* [Models](https://github.com/karpathy/llama2.c#models)
 * [Pretokenized TinyStories](https://huggingface.co/datasets/enio/TinyStories)
