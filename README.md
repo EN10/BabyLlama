@@ -1,5 +1,7 @@
 # Baby Llama
 
+## [Modded Llama2: New Performance Optimised Version](https://github.com/EN10/modded-llama2.c)
+
 Train and run a small [Llama 2](https://ai.meta.com/llama/) model from scratch on the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) dataset.
 * [Based on karpathy/llama2.c](https://github.com/karpathy/llama2.c)
 * [Based on eniompw/DisneyGPT](https://github.com/eniompw/DisneyGPT)
